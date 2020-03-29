@@ -1,1 +1,2 @@
-"Eric Ianni" 
+"Greg Noetzel"
+noetzelg@oregonstate.edu 
